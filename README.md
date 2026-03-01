@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Lê Trung Toàn
+### Data Science Engineer Student | Aspiring BA & DA 🚀
 
-<!--
-**thsttoan/thsttoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thsttoan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Toan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsttoan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Professional Summary
+I am a 3rd-year **Data Science** student at **HCMC University of Transport (UTH)**. My expertise lies at the intersection of **Business Requirements** and **Data-Driven Insights**. 
+- 🏛️ Strong foundation in **System Analysis & Design** and **Database Systems**.
+- 📊 Experienced in transforming raw data into **Actionable Insights** using Python and Power BI.
+- 🧠 Passionate about applying **Deep Learning** to solve real-world automation problems.
+
+---
+
+### 🛠 Tech Stack & Expertise
+| Category | Tools & Skills |
+| :--- | :--- |
+| **Data Analysis (DA)** | Python (Pandas, Numpy, Scikit-learn), SQL, Power BI, Data Mining |
+| **Business Analysis (BA)** | Requirement Elicitation, UML, Draw.io, Agile Teamwork |
+| **Technical Skills** | C#, ASP.NET Core, SQL Server, N-Tier Architecture |
+| **AI & Research** | Deep Learning (YOLO), Gemini API Integration, Pose Estimation |
+
+---
+
+### 📂 Highlighted Projects
+#### 🩺 [Skin Disease Detection System](https://github.com/thsttoan) (DA Focus)
+- **Strategy:** Analyzed medical image datasets to define classification requirements.
+- **Tech:** Applied **Deep Learning** and **Data Mining** to optimize diagnostic processes.
+- **Impact:** Leveraged Data Visualization to present model performance and medical insights.
+
+#### 📝 [Question Bank Checking Application](https://github.com/thsttoan) (BA Focus)
+- **Analysis:** Elicited and transformed educational workflows into functional software specifications.
+- **Architecture:** Defined **RBAC** and **N-Tier architecture** to ensure data integrity.
+- **Innovation:** Integrated **Gemini API** to automate duplicate checking.
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [le.trung.toan.ten@gmail.com](mailto:le.trung.toan.ten@gmail.com)
+
+<p align="left">
+  <a href="https://github.com/thsttoan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:le.trung.toan.ten@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
