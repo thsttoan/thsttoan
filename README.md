@@ -29,12 +29,12 @@ I am a 3rd-year **Data Science** student at **HCMC University of Transport (UTH)
 ---
 
 ### 📂 Highlighted Projects
-#### 🩺 [Skin Disease Detection System](https://github.com/thsttoan) (DA Focus)
+#### 🩺 [Skin Disease Detection System](https://github.com/thsttoan/Data-Science-Practical-Project) (DA Focus)
 - **Strategy:** Analyzed medical image datasets to define classification requirements.
 - **Tech:** Applied **Deep Learning** and **Data Mining** to optimize diagnostic processes.
 - **Impact:** Leveraged Data Visualization to present model performance and medical insights.
 
-#### 📝 [Question Bank Checking Application](https://github.com/thsttoan) (BA Focus)
+#### 📝 [Question Bank Checking Application](https://github.com/thsttoan/CNPM-QBCA). (BA Focus)
 - **Analysis:** Elicited and transformed educational workflows into functional software specifications.
 - **Architecture:** Defined **RBAC** and **N-Tier architecture** to ensure data integrity.
 - **Innovation:** Integrated **Gemini API** to automate duplicate checking.
