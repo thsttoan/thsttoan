@@ -36,7 +36,7 @@ I am a 3rd-year **Data Science** student at **HCMC University of Transport (UTH)
 #### 📝 [Question Bank Checking Application](https://github.com/thsttoan/CNPM-QBCA). (BA Focus)
 - **Analysis:** Elicited and transformed educational workflows into functional software specifications.
 - **Architecture:** Defined **RBAC** and **N-Tier architecture** to ensure data integrity.
-- **Innovation:** Integrated **Gemini API** to automate duplicate checking.
+- **Innovation:** Integrated **API** to automate duplicate checking.
 
 ---
 
