@@ -30,9 +30,9 @@ I am a 3rd-year **Data Science** student at **HCMC University of Transport (UTH)
 | **Frontend** | HTML5, CSS3 |
 | **Backend** | C#, ASP.NET Core, Python |
 | **Database** | SQL Server, MySQL, MongoDB |
-| **Data Analysis (DA)** | Python (Pandas, Numpy, Scikit-learn), SQL, Power BI, Data Mining |
+| **Data Analysis (DA)** | Python, SQL, Power BI, Data Mining |
 | **Business Analysis (BA)** | Requirement Elicitation, UML, Draw.io, Agile Teamwork |
-| **AI & Research** | Deep Learning (YOLO), TensorFlow, Jupyter, Gemini API, Pose Estimation |
+| **AI & Research** | Machine Learning, Deep Learning, TensorFlow, Jupyter, AI API |
 | **DevOps & Tools** | Git, GitHub, Docker, AWS, Figma |
 
 ---
